@@ -34,7 +34,7 @@ colorBlender used to make amoled material you theme
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/545f9fd8-89e2-4c26-bc6e-a0eed2f86c97" 
-        width="700" 
+        width="780" 
         height="600">
 </div>
 
