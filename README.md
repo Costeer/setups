@@ -2,16 +2,23 @@
 My Setups
 # Niagara Setup Nothing Inspired
 Its very minimal and inspired by the idea behind nothing os I tried to be very conservative when applying red accents because I think that most setups overuse it a bit 
-To get to the stuff I used 
-Launcher
+
+##### To get to the stuff I used 
+- Launcher
+
 Niagara (pro altho the none pro should look the same)
-Widgets
-Nothing 2.0 kwgt
+
+##### Widgets
+
+- Nothing 2.0 kwgt
+
 Icon Pack made with icon pack studio (set everything to black)
 
-#### Other customisation
+##### Other customisation
 custom rooted ROM (paranoid android on Redmi Note 11)
+
 Iconify to customize lock screen clock and quick settings menu as well as custom battery icon
+
 colorBlender used to make amoled material you theme
 
 ***
