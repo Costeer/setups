@@ -26,7 +26,7 @@ colorBlender used to make amoled material you theme
 <div align="center">
     <img src="https://github.com/user-attachments/assets/7d1727f9-57a8-4633-a92a-809a2b4a3a1e" 
         width="600" 
-        height="600">
+        height="700">
 </div>
 
 ***
