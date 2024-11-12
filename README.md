@@ -1,5 +1,3 @@
-# setups
-My Setups
 # Niagara Setup Nothing Inspired
 Its very minimal and inspired by the idea behind nothing os I tried to be very conservative when applying red accents because I think that most setups overuse it a bit 
 
